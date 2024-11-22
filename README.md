@@ -1,4 +1,4 @@
-To run the project, use [Secret Manager ****](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets) and setup following screts:
+To run the project, use [Secret Manager](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets) and setup following screts:
 
 AzureOpenAI:Endpoint = ...
 
